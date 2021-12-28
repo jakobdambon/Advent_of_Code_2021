@@ -1,2 +1,2 @@
-# Advent_of_Code_2021
-My solutions for Advent of Code 2021
+# Advent of Code 2021
+These are my solutions for the [Advent of Code 2021](https://adventofcode.com/2021). Some of which  I quite proud, some of them just work. I  tried to use as much base R as possible. For some problems (day 9), I just couldn't be bothered to write my own connected subgraph algorithm. Overall, I've achieved 46 stars (2nd part of day 23 and 25 as well as the whole day of 24 are missing).
